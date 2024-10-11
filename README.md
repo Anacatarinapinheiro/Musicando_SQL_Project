@@ -20,6 +20,11 @@ To enrich and diversify the stored data, various tools and languages were utiliz
 - **Power BI**: Used to create tables from online sources, complementing information about live events by providing data on event dates and locations.
 - **MySQL Workbench**: Utilized to create and structure the database tables, reflecting the organized data.
 - **Excel**: Used to generate CSV files for direct data import into the database.
+- **Jupyter Notebooks**: Used for running Python scripts to create visualizations.
 
 ### Database Table Connections Diagram
 ![Diagrama 1](https://github.com/user-attachments/assets/50099cdf-39c4-4fa9-89b1-3a1223cd30d0)
+
+### Visualizations
+
+- View the final report directly in the [Final Project Report PDF](./Musicando_Projeto_final.pdf).
