@@ -22,11 +22,12 @@ To enrich and diversify the stored data, various tools and languages were utiliz
 - **Excel**: Used to generate CSV files for direct data import into the database.
 - **Jupyter Notebooks**: Used for running Python scripts to create visualizations.
 
-### Database Table Connections Diagram
-<img src="https://github.com/user-attachments/assets/50099cdf-39c4-4fa9-89b1-3a1223cd30d0" alt="Diagrama 1" width="500"/>
-
 ### Visualizations
 
 - View the final report directly in the [Final Project Report (PDF)](./SQL%20Project%20Report.pdf)
+
+### Database Table Connections Diagram
+<img src="https://github.com/user-attachments/assets/50099cdf-39c4-4fa9-89b1-3a1223cd30d0" alt="Diagrama 1" width="300"/>
+
 
 
